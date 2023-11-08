@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="kyle copyright">
+    <module2copyright>
+      <element module="Project Source Files" copyright="kyle copyright" />
+    </module2copyright>
+  </settings>
+</component>

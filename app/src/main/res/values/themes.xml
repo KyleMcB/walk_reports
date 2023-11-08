@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright © 2023 Kyle McBurnett. All rights reserved.
+  ~
+  -->
+
+<resources>
+
+    <style name="Theme.WalkReports" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
